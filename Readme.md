@@ -43,6 +43,6 @@ Refer to [this page](https://discordpy.readthedocs.io/en/stable/discord.html) in
 
 **Additional information: See [this page](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html) for commands and [this page](https://discordpy.readthedocs.io/en/stable/ext/tasks/index.html) for tasks.**
 
-## MySQL Instructions:
+## MySQL Instructions
 
 Coming soon: This will be a detailed process for everyone to fully understand.
